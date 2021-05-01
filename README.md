@@ -1,4 +1,5 @@
-
+## DuckDuckGo Dark Theme
+Dark theme that looks very similar to the Black theme on Startpage.com
 ![Screenshot](https://raw.githubusercontent.com/Strbean1/DuckDuckGo-Theme/main/Screenshot_2021-05-01%20DuckDuckGo%20Dark%20Theme%20at%20DuckDuckGo.png)
 
 
