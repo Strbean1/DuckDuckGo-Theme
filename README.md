@@ -15,5 +15,5 @@ https://duckduckgo.com/?q=%s&k7=171b25&k8=f8f8f2&k9=a6afff&kae=t&kt=p&ks=m&kw=n&
 
 You can customize links [with this guide](https://duckduckgo.com/params)
 
-It is possible to install themes manually but using an extension is easier.
+It is possible to add custom search manually but using an extension is easier.
 This should also work in Chrome/other browsers if you can use a custom search engine.
